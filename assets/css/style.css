@@ -84,4 +84,14 @@ a:link{
 
 .info {
 	width: 100%;
+	font-size: 20px;
+}
+
+form {
+	font-size: 20px;
+}
+p {
+	padding-bottom: 16px;
+	padding-top: 16px;
+	line-height: 150%;
 }
