@@ -20,6 +20,8 @@ body {
 
 .navbar-inverse .navbar-brand {
 	color: #ffffff;
+	font-size: 32px;
+	font-weight: bold;
 }
 
 .profile {
